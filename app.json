@@ -1,20 +1,15 @@
 {
-	"name": "WhatsAppBot-MD",
-	"description": "Fully Costamisable Bot by, Alien-Alfa.",
-	"repository": "https://github.com/dilshantharu/Queen-shashi-v1",
-	"website": "https://small-sharp-tool.com/",
-	"logo": "https://avatars.githubusercontent.com/u/64305844?v=4",
-	"keywords": ["multi-device","WhatsApp Bot"],
-    	"stack": "container",
-buildpacks": [
+  "name": "Queen shashi v1",
+  "description": "whatsapp md bot build with nodejs",
+  "repository": "https://github.com/dilshantharu/Queen-shashi-v1",
+  "logo": "",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
+  "buildpacks": [
     {
       "url": "heroku/nodejs"
     },
     {
       "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
-    },
-    {
-      "url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick"
     },
     {
       "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
