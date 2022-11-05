@@ -37,7 +37,7 @@ global.db = {
 
 
 case 'alive': {
-    queenshashi.sendMessage(from, { react: { text: `🙋‍`, key: m.key }}) 
+    alfa.sendMessage(from, { react: { text: `🙋‍`, key: m.key }}) 
     let buttons = [
     {buttonId: `menu`, buttonText: {displayText: 'MENU'}, type: 1},
     {buttonId: `ping`, buttonText: {displayText: 'SPEED'}, type: 1}
@@ -81,6 +81,6 @@ case 'alive': {
     buttons: buttons,
     headerType: 4,
     }
-    queenshashi.sendMessage(m.chat, buttonMessage, { quoted: m })
+    alfa.sendMessage(m.chat, buttonMessage, { quoted: m })
     }
     break    
