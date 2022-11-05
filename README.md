@@ -38,12 +38,12 @@
 
 
   ### ⚠️ Deploy With New Session <br>
-Click [FORK](https://github.com/Alien-Alfa/WhatsAppBot-MD-BETA2/fork) <br>
+Click [FORK](https://github.com/dilshantharu/Queen-shashi-v1) <br>
   
 Now copy this url and change GITHUBID with your github username and click GO <br>
 
   ```
-  https://heroku.com/deploy?template=https://github.com/GITHUBID/WhatsAppBot-MD-BETA2 
+  https://heroku.com/deploy?template=https://github.com/dilshantharu/Queen-shashi-v1 
   ```
   
   <br> <br>
